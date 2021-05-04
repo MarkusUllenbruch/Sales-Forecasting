@@ -6,9 +6,9 @@ I am trying different forecast neural network architectures like Long-Short-Term
 
 ## The Data
 In the following plots we see the datetime on the x-axis and the daily sales on the y-axis.
-In the first image, we see the overall daily sales grouped per store (adding sales over all item sales per store):
+In the first image, we see the overall daily sales grouped per store (adding sales over all items per store):
 <img src="Plots/sales_per_store.png" width="700">
 
-In the next image, we see the overall daily sales per unique items (adding sales over all stores per item):
+In the next image, we see the overall daily sales grouped per unique items (adding sales over all stores per item):
 <img src="Plots/sales_per_items.png" width="700">
 
