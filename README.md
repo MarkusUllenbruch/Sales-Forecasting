@@ -5,6 +5,9 @@ In this repo, I am going to forecast on timeseries data, that contain per day sa
 I am trying different forecast neural network architectures like Long-Short-Term-Memory (LSTM) networks, Convolutional Neural Networks (CNN) Networks and mixed CNN-LSTM networks.
 
 ## The Data
-<img src="Plots/sales_per_store.png" width="500">
-<img src="Plots/sales_per_items.png" width="500">
+In the following plots we see the datetime on the x-axis and the daily sales on the y-axis.
+In the first image, we see the overall daily sales grouped per store (adding sales over all item sales per store):
+<img src="Plots/sales_per_store.png" width="600">
+In the next image, we see the overall daily sales per unique items (adding sales over all stores per item):
+<img src="Plots/sales_per_items.png" width="600">
 
