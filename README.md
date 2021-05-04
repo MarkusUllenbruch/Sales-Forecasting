@@ -12,3 +12,6 @@ In the first image, we see the overall daily sales grouped per store (adding sal
 In the next image, we see the overall daily sales grouped per unique items (adding sales over all stores per item):
 <img src="Plots/sales_per_items.png" width="700">
 
+## Results
+--TO COME--
+
