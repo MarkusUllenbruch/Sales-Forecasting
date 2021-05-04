@@ -6,5 +6,5 @@ I am trying different forecast neural network architectures like Long-Short-Term
 
 ## The Data
 <img src="Plots/sales_per_store.png" width="500">
-<img src="Plots/sales_per_item.png" width="500">
+<img src="Plots/sales_per_items.png" width="500">
 
