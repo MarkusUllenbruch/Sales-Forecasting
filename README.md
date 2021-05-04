@@ -5,5 +5,5 @@ In this repo, I am going to forecast on timeseries data, that contain per day sa
 I am trying different forecast neural network architectures like Long-Short-Term-Memory (LSTM) networks, Convolutional Neural Networks (CNN) Networks and mixed CNN-LSTM networks.
 
 ## The Data
-
+<img src="Plots/sales_per_store.png" width="500">
 
