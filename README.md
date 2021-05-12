@@ -15,9 +15,9 @@ In the next image, we see the overall daily sales grouped per unique items (addi
 ## Results
 Neural Network with two LSTM Layer and one Dense Layer.
 
-<img src="Plots/Loss.png" width="700">
+<img src="Plots/Loss.png" width="300">
 
-<img src="Plots/Predictions.png" width="700">
+<img src="Plots/Predictions.png" width="800">
 
 
 
