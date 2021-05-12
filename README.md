@@ -13,11 +13,11 @@ In the next image, we see the overall daily sales grouped per unique items (addi
 <img src="Plots/sales_per_items.png" width="700">
 
 ## Results
-Neural Network with two LSTM Layer and one Dense Layer.
-
-<img src="Plots/Loss.png" width="300">
+Neural Network with two LSTM Layer and one Dense Layer trained with Huber Loss (Smoothed L1 Loss).
 
 <img src="Plots/Predictions.png" width="800">
+
+<img src="Plots/Loss.png" width="500">
 
 
 
